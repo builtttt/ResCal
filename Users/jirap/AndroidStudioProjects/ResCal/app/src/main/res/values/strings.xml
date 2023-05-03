@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ResCal</string>
+    <string name="title_home">3 Bands</string>
+    <string name="title_dashboard">4 Bands</string>
+    <string name="title_notifications">5 Bands</string>
+    <string name="tvResult">result</string>
+    <string-array name="colorArray">
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Grey</item>
+        <item>White</item>
+        <item>Gold</item>
+        <item>Silver</item>
+    </string-array>
+
+</resources>
